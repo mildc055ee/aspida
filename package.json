@@ -67,6 +67,7 @@
     ]
   },
   "devDependencies": {
+    "@tanstack/react-query": "^4.3.4",
     "@testing-library/react": "^11.2.7",
     "@types/express": "^4.17.7",
     "@types/jest": "^27.4.0",
